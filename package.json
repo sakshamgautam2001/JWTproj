@@ -17,7 +17,7 @@
     "image-size": "^0.8.3",
     "image-thumbnail": "^1.0.8",
     "jimp": "^0.10.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "simple-thumbnail": "^1.6.5"
   }
 }
